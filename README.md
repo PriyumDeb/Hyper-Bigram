@@ -24,5 +24,5 @@ Here are a few cars the AI actually generated after training:
 Just clone the repo, make sure you have PyTorch installed, and run the Python file. Make sure the `car.txt` file stays in the exact same folder, or the network won't have any data to train on. 
 
 ---
-**Built by Priyum.**
+
 
