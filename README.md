@@ -1,4 +1,4 @@
-# Hyper-Bigram
+# Hyper-Bigram 😎
 A Custom Bigram model which predicts cars names without any external api based of txt file
 
 I wanted to see if I could build a character-level Bigram model and teach it how to invent brand-new car names. 
